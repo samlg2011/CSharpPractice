@@ -30,12 +30,27 @@
 
     Example of using locked statement
 
-## Online_Attendance.cs         #Example of delegete and event handlr
+## Online_Attendance.cs
 <!-- language:console -->
-
+    
+    Example of delegate and event handler.
+    
     Write a program for Online Attendance. The conditions are as follow:
     1. User provides their name as Input and then application show message to “Welcome to their Name”.
     2. Jack, Steven and Mathew are banned for the organization. So, when any user enters Jack, Steven and Mathew as user name, the application raised an event and fire alarm as well as sends email to administration.
 
 ## SealedClass.cs           
+<!-- language:console -->
 
+    Example of using sealed
+    
+    
+## UsingStatement.cs
+<!-- language:console -->
+
+    Example of using using statement
+
+## ValueTypeVSRefType.cs
+<!-- language:console -->
+
+    Example of value type variable and reference type varable
